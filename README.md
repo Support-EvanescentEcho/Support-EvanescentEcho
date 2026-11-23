@@ -10,7 +10,7 @@ Crafting intimate, secure tools to preserve life's fleeting moments before they 
 - 🚫 **No accounts, no ads, no tracking.**
 
 **Apps**
-- **[Hours Lived](https://play.google.com/store/apps/details?id=dev.evanescentecho.hourslived)**: a private diary for the hours worth remembering. Android & desktop.
+- **[Hours Lived](https://support-evanescentecho.github.io/)**: a private diary for the hours worth remembering. Android & desktop. _Closed testing on Google Play._
 - **Keepsake**: _in development_
 - **Komorebi**: _in development_
 - **Sill**: _in development_
